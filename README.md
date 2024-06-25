@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- I am a Graduate Student in Aerospace Engineering!
+- I am currently working on transitioning into research
+- I am fluent in MATLAB, but have started to learn Python
+
 <!--
 **nick-niziolek/nick-niziolek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
