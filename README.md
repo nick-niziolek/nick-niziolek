@@ -3,7 +3,7 @@
 - I am a Graduate Student in Aerospace Engineering
 - I am currently researching multi agent coordination with an emphasis on SUAS and communication awareness
 - I mainly work in MATLAB and Python
-- nix-engineering.com
+- [Website](nix-engineering.com)
 
 <!--
 **nick-niziolek/nick-niziolek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
